@@ -1,0 +1,14 @@
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.AssemblyInfoInputs.cache
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.AssemblyInfo.cs
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\bin\Debug\net10.0\Interest Calculator.exe
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\bin\Debug\net10.0\Interest Calculator.deps.json
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\bin\Debug\net10.0\Interest Calculator.runtimeconfig.json
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\bin\Debug\net10.0\Interest Calculator.dll
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\bin\Debug\net10.0\Interest Calculator.pdb
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.dll
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\refint\Interest Calculator.dll
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.pdb
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\Interest Calculator.genruntimeconfig.cache
+C:\Users\Aleckxa Reign\Documents\Bugtong, Aleckxa Reign D\Interest Calculator\obj\Debug\net10.0\ref\Interest Calculator.dll
